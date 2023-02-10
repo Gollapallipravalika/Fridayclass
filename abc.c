@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a=10;
-int b=30;
+int a=15;
+int b=35;
 int c=a+b;
 }
